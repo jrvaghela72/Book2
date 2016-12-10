@@ -1,0 +1,21 @@
+﻿  MainView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MainFrame.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MainDoc.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MainApp.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\users\jrvag\documents\visual studio 2015\projects\book2\book2\resource.h(6): warning C4005: 'IDR_MAINFRAME': macro redefinition
+  c:\users\jrvag\documents\visual studio 2015\projects\book2\book2\resource.h(5): note: see previous definition of 'IDR_MAINFRAME'
+c:\users\jrvag\documents\visual studio 2015\projects\book2\book2\resource.h(7): warning C4005: 'ID_FILE_OPEN': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxres.h(215): note: see previous definition of 'ID_FILE_OPEN'
+c:\users\jrvag\documents\visual studio 2015\projects\book2\book2\resource.h(8): warning C4005: 'ID_FILE_SAVE': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxres.h(217): note: see previous definition of 'ID_FILE_SAVE'
+c:\users\jrvag\documents\visual studio 2015\projects\book2\book2\resource.h(10): warning C4005: 'ID_EDIT_UNDO': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxres.h(260): note: see previous definition of 'ID_EDIT_UNDO'
+  Generating Code...
+resource.h(6): warning RC4005: 'IDR_MAINFRAME' : redefinition
+  
+  Book2.vcxproj -> c:\users\jrvag\documents\visual studio 2015\Projects\Book2\Debug\Book2.exe
+  Book2.vcxproj -> c:\users\jrvag\documents\visual studio 2015\Projects\Book2\Debug\Book2.pdb (Full PDB)
